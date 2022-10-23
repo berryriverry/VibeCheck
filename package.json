@@ -20,7 +20,8 @@
         "express-session": "^1.17.1",
         "hbs": "^4.2.0",
         "mysql2": "^2.2.5",
-        "sequelize": "^6.3.5"
+        "sequelize": "^6.25.3",
+        "spotify": "^0.3.0"
     },
     "devDependencies": {
         "eslint": "^7.12.1",
