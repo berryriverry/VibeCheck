@@ -1,4 +1,4 @@
-const SpotifyWebApi = equire('spotify-web-api-node');
+const SpotifyWebApi = require('spotify-web-api-node');
 const router = require('express').Router();
 const { User, Preferences } = require('../../models');
 var express = require('express'); // Express web server framework
