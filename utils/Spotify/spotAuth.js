@@ -3,7 +3,7 @@ var querystring = require('querystring');
 require('dotenv').config();
 
 var client_id = process.env.CLIENT_ID;
-var client_secret = process.env.CLINT_SECRET; // Your secret
+var client_secret = process.env.CLIENT_SECRET; // Your secret
 var redirect_uri = 'http://localhost:8888/callback'; // Your redirect uri
 
 /**
