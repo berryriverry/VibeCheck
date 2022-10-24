@@ -1,3 +1,5 @@
+// file possibly not needed, do not delete for now
+
 // const { Model, DataTypes } = require('sequelize');
 // const bcrypt = require('bcrypt');
 // const sequelize = require('../config/connection');
@@ -28,4 +30,3 @@
 
 // module.exports = Preferences
 
-// file possibly not needed, do not delete for now
